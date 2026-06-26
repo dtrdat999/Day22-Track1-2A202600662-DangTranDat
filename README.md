@@ -4,7 +4,6 @@ Học viên: Đặng Trần Đạt
 Mã HV: 2A202600662  
 Track: Track 1 - AI Product  
 
-> Ghi chú: Đây là bản PM proposal ở mức workbook. Mục tiêu không phải viết eval runner thật, mà là ra quyết định: unit of work nào cần đo, đo bằng code / LLM / human / expert ở đâu, gate release thế nào, và pilot cần bao nhiêu nguồn lực.
 
 ---
 ## Tóm tắt quyết định làm bài
@@ -51,4 +50,4 @@ Pilot plan + budget
 
 ## Ghi chú về giá API
 
-Các dự toán API trong bài dùng `gpt-5.4-mini` với giá tham khảo từ OpenAI API Pricing kiểm tra ngày 26/06/2026: `$0.75 / 1M input tokens` và `$4.50 / 1M output tokens`. Đây vẫn là giả định để tính pilot sơ bộ; khi nộp thật cần kiểm tra lại trang pricing chính thức nếu giá thay đổi.
+Các dự toán API trong bài dùng `gpt-5.4-mini` với giá tham khảo từ OpenAI API Pricing kiểm tra ngày 26/06/2026: `$0.75 / 1M input tokens` và `$4.50 / 1M output tokens`. Được cập nhật ngày 26/06/2026 cần kiểm tra lại trang pricing chính thức.
